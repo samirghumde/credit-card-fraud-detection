@@ -95,4 +95,4 @@ Demonstrates improvement of the SMOTE-based model.
 
 1️⃣ Clone repository  
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/samirghumde/credit-card-fraud-detection.git
